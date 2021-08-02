@@ -24,6 +24,7 @@ When clicked, a random recipe including its title, an image and the URL to go to
 ## How to use it :
  - In development, clone the repository on your machine, and run in the project directory:
   ```
+  npm install
   npm start
   ```
   
